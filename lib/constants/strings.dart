@@ -1,0 +1,12 @@
+const String kTodoey = 'Todoey';
+const String kYes = 'Yes';
+const String kNo = 'No';
+const String kOk = 'Ok';
+const String kAdd = 'Add';
+const String kAddTask = 'Add task';
+const String kAreYouSure = 'Are you sure?';
+const String kDoYouWantToDeleteTheTask = 'Do you want to delete the task?';
+const String kErrorLoadingData = 'Error loading data!';
+const String kStartAddTasks = 'Start add tasks';
+const String kTasks = 'tasks';
+const String kMustEnterName = 'Must enter name';
