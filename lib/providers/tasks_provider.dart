@@ -15,10 +15,8 @@ class TasksProvider extends ChangeNotifier {
   }
 
   Future<void> updateTask(Task task) async {
-    print(task.isDone);
     task.toggleDone();
     await DBHelper.instance.updateTask(task);
-    print(task.isDone);
     notifyListeners();
   }
 
