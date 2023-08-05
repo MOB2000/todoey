@@ -1,16 +1,20 @@
-# todoey
+# Todoey
 
-A new Flutter project.
+A Flutter project to track todos.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Beautiful minimal UI
+- Display tasks
+- mark task as completed
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <tr> 
+    <td> <img width="250px" src="screenshots/home.png">  </td>
+    <td> <img width="250px" src="screenshots/add-task.png">  </td>
+  </tr>
+
+</table>
